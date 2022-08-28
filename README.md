@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l41YbcuvFhMPY0TWU/giphy.gif" />
+
 # 👋 Hey, I am [Wilame](https://wila.me)
 
 I am an enthusiastic machine learning engineer and marketing data scientist with many passions, including finding solutions for problems and advocating for text mining and natural language processing. I design methods and tools to structure, search and extract intelligence from data.
